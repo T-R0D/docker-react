@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# docker-react
+A simple project for noodling with Docker, K8s, and ElasticBeanstalk.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
